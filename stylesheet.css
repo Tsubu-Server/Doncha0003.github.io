@@ -67,10 +67,19 @@
     </section>
     <section>
       <h2>審査について</h2>
+      <h3>プラグイン部門</h3>
       <ul>
-        <li>プラグインに関する知識・実装能力の審査</li>
-        <li>建築スキルの審査</li>
+        <li>プラグインに関する知識と実装能力を評価します。</li>
       </ul>
+      <h3>建築部門</h3>
+      <p>以下の部門から一つ以上を選択し、該当する建築の写真を提出していただきます。</p>
+      <ul>
+        <li>惑星などの自然建築</li>
+        <li>内装部門</li>
+        <li>外装部門</li>
+        <li>大規模建築</li>
+      </ul>
+      <p>複数部門を選択された場合は、組み合わせた最終的な建築として総合的に評価いたします。WorldEdit 等のツール使用も可能です。</p>
     </section>
     <section>
       <h2>著作物に関する合意</h2>
@@ -82,7 +91,7 @@
     </section>
   </main>
   <footer>
-    &copy; 2025 Galactic Frontier Project
+    &copy; 2025 Galactic Frontier Project. All rights reserved.
   </footer>
 </body>
 </html>
